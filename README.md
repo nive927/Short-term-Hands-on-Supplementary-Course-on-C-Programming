@@ -27,9 +27,9 @@ This repo contains the material covered in the "Short-term Hands-on Supplementar
 
 | Date | Time | Location | Session | Topics | Handout | Slides | Code Walkthrough | Lecture Video |
 | :--: | :--: | :------: | :-----: | :----- | :-----: | :----: | :--------------: | :-----------: |
-| 12-May-2022 | 02:30 - 3:30 PM | Seminar Hall | S01: C Programming Basics | `Presentation:` Structure of a C program, Comments, Keywords, Identifiers, Data types, Variables, Constants, Basic I/O statements, Operators, Expressions, Type cast & conversion <br />`Tutorial:` Expression Evaluation | [S01-H01-C_Programming_Basics.pdf](./Session01-C_Programming_Basics/S01-H01-C_Programming_Basics.pdf) | `SOON` | [Repl](https://replit.com/@NivedhithaD/Session01-CProgrammingBasics) | `SOON` |
-| 18-May-2022 | 06:30 - 8:00 PM | Online | S02: Conditional Statements | `Presentation:` Conditional statements - if, nested-if, if-then, elseif, switch, ternary operator <br />`Live Code Demo:` Finding greatest of 2, 3 numbers <br />`Tutorial:` Simple calculator | `SOON` | `SOON` | [Repl](https://replit.com/@NivedhithaD/Session02-ConditionalStatements) | `SOON` |
-| 20-May-2022 | 04:00 - 5:00 PM | Seminar Hall | S03: Looping Statements | `Presentation:` Looping statements - while, do-while, for <br />`Live Code Demo:` Find factorial of a number <br />`Tutorial:` Sum of n numbers | `SOON` | `SOON` | `SOON` | `SOON` |
+| 12-May-2022 | 02:30 - 3:30 PM | Seminar Hall | S01: C Programming Basics | `Tutorial:` Expression Evaluation | [S01-H01-C_Programming_Basics.pdf](./Session01-C_Programming_Basics/S01-H01-C_Programming_Basics.pdf) | `SOON` | [Repl](https://replit.com/@NivedhithaD/Session01-CProgrammingBasics) | `SOON` |
+| 18-May-2022 | 06:30 - 8:00 PM | Online | S02: Conditional Statements | `Live Code Demo:` Finding greatest of 2, 3 numbers <br />`Tutorial:` Simple calculator | `SOON` | `SOON` | [Repl](https://replit.com/@NivedhithaD/Session02-ConditionalStatements) | `SOON` |
+| 20-May-2022 | 04:00 - 5:00 PM | Seminar Hall | S03: Looping Statements | `Tutorial:` Sum of n numbers | `SOON` | `SOON` | `SOON` | `SOON` |
 
 ## References
 
