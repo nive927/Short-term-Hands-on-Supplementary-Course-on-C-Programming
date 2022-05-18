@@ -30,7 +30,7 @@ Course Details and Lesson Plan can be found [here!](./COURSE_DETAILS-Short-term_
 | Location & Timings | Session | Hands-On | Handout | Slides | Code | Lecture Video |
 | :----------------: | :-----: | :------: | :-----: | :----- | :--: | :-----------: |
 | 12-May-2022 <br />02:30 - 3:30 PM <br />Seminar Hall | S01: C Programming Basics | `Tutorial:` Expression Evaluation | [H01-C_Programming_Basics](./Session01-C_Programming_Basics/H01-C_Programming_Basics.pdf) | `SOON` | [Repl](https://replit.com/@NivedhithaD/Session01-CProgrammingBasics) | `SOON` |
-| 18-May-2022 <br />06:30 - 8:00 PM <br />Online | S02: Conditional Statements | `Live Code Demo:` Finding greatest of 2, 3 numbers <br />`Tutorial:` Simple calculator | [H02-Conditional_Statements](./Session02-Conditional_Statements/H02-Conditional_Statements.pdf) | [P02-Conditional_Statements](./Session02-Conditional_Statements/P02-Conditional_Statements.pdf) | [Repl](https://replit.com/@NivedhithaD/Session02-ConditionalStatements) | `SOON` |
+| 18-May-2022 <br />06:30 - 8:00 PM <br />Online | S02: Conditional Statements | `Live Code Demo:` Finding greatest of 2, 3 numbers <br />`Tutorial:` Simple calculator | [H02-Conditional_Statements](./Session02-Conditional_Statements/H02-Conditional_Statements.pdf) | [P02-Conditional_Statements](./Session02-Conditional_Statements/P02-Conditional_Statements.pdf) | [Repl](https://replit.com/@NivedhithaD/Session02-ConditionalStatements) | [V02-Conditional_Statements](https://drive.google.com/file/d/12LWjD1_0ZemPFFiBWhMbgDdgY-LOWPsJ/view?usp=sharing) |
 | 20-May-2022 <br />04:00 - 5:00 PM <br />Seminar Hall | S03: Looping Statements | `Tutorial:` Sum of n numbers | `SOON` | `SOON` | `SOON` | `SOON` |
 
 <!-- ## References
