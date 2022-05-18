@@ -1,4 +1,4 @@
-# Short-term-Hands-on-Supplementary-Course-on-C-Programming
+# Short term Hands on Supplementary Course on C Programming
 
 This repo contains the material covered in the `Short-term Hands-on Supplementary Course in C Programming` for building C programming skills amongst the B.E. Computer Science & Engineering undergraduates in the [Computer Science & Engineering Department](https://www.ssn.edu.in/college-of-engineering/computer-science-and-engineering-department-ssn-institutions/) of [Sri Sivasubramaniya Nadar College of Engineering](https://www.ssn.edu.in/) through a practicum-driven lesson plan during May-July 2022.
 
