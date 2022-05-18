@@ -31,9 +31,9 @@ This repo contains the material covered in the "Short-term Hands-on Supplementar
 | 18-May-2022 <br />06:30 - 8:00 PM <br />Online | S02: Conditional Statements | `Live Code Demo:` Finding greatest of 2, 3 numbers <br />`Tutorial:` Simple calculator | `SOON` | `SOON` | [Repl](https://replit.com/@NivedhithaD/Session02-ConditionalStatements) | `SOON` |
 | 20-May-2022 <br />04:00 - 5:00 PM <br />Seminar Hall | S03: Looping Statements | `Tutorial:` Sum of n numbers | `SOON` | `SOON` | `SOON` | `SOON` |
 
-## References
+<!-- ## References
 
 ### Books
 
 
-### Websites
+### Websites -->
