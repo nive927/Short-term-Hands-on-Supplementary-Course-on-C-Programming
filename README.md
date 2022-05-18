@@ -25,6 +25,8 @@ This repo contains the material covered in the `Short-term Hands-on Supplementar
 
 ## Course Schedule
 
+Course Details and Lesson Plan can be found [here!](./COURSE_DETAILS-Short-term_Hands-on_Supplementary_Course_on_C_Programming.pdf)
+
 | Location & Timings | Session | Hands-On | Handout | Slides | Code | Lecture Video |
 | :----------------: | :-----: | :------: | :-----: | :----- | :--: | :-----------: |
 | 12-May-2022 <br />02:30 - 3:30 PM <br />Seminar Hall | S01: C Programming Basics | `Tutorial:` Expression Evaluation | [S01-H01-C_Programming_Basics.pdf](./Session01-C_Programming_Basics/S01-H01-C_Programming_Basics.pdf) | `SOON` | [Repl](https://replit.com/@NivedhithaD/Session01-CProgrammingBasics) | `SOON` |
