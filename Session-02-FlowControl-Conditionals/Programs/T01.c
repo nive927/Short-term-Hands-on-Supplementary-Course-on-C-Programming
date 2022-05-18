@@ -7,7 +7,9 @@
 int main()
 {
     char op;
-    float num1, num2, result=0.0f;
+    float num1, num2, result= 0f ;
+
+    // float a = 0.2f + 
 
     /* Print welcome message */
     printf("WELCOME TO SIMPLE CALCULATOR\n");
@@ -19,31 +21,53 @@ int main()
 
     printf("\nGot the following:\n-num1: %f\n-op:   %c\n-num2: %f", num1, op, num2);
 
-    /* Switch the value and perform action based on operator*/
+
     switch(op)
     {
-        case '+': 
+        case '+':
             result = num1 + num2;
             break;
-
-        case '-': 
+        case '-':
             result = num1 - num2;
             break;
-
-        case '*': 
-            result = num1 * num2;
-            break;
-
-        case '/': 
-            result = num1 / num2;
-            break;
-
-        default: 
-            printf("Invalid operator");
+        default:
+            printf("Invalid input");
+            
     }
 
+
+
+
+
+
+    /*
+
+    /* Switch the value and perform action based on operator*/
+    // switch(op)
+    // {
+    //     case '+': 
+    //         result = num1 + num2;
+    //         break;
+
+    //     case '-': 
+    //         result = num1 - num2;
+    //         break;
+
+    //     case '*': 
+    //         result = num1 * num2;
+    //         break;
+
+    //     case '/': 
+    //         result = num1 / num2;
+    //         break;
+
+    //     default: 
+    //         printf("Invalid operator");
+    // }
+    // */
+
     /* Prints the result */
-    printf("%.2f %c %.2f = %.2f", num1, op, num2, result);
+    printf("\n\n%.2f %c %.2f = %.2f\n", num1, op, num2, result);
 
     return 0;
 }

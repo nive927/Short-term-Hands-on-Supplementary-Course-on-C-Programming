@@ -17,6 +17,8 @@ int main(void) {
     printf("Enter c: ");
     scanf("%d", &c);    
 
+    // if (a > b && a>c)
+
     // Do the same thing in a Single Line Expression!
     max = (a > b && a > c) ? a: (b > a && b > c) ? b : (c > a && c > b) ? c : a;
 
@@ -39,11 +41,19 @@ int main(void) {
       }
     }
     */
-    
-    printf("[SINGLE-LINE] The maximum of %d, %d, %d is %d.\n", a, b, c, max);
+
+    //printf("[SINGLE-LINE] The maximum of %d, %d, %d is %d.\n", a, b, c, max);
 
     // Use variables to go through intermediate steps
     max = (a > b) ? a : b;
+    /*
+    if (a>b){
+      a
+    }
+    else{
+      b
+    }
+    */
     printf("\n[INTERMEDIATE-LINE-1]: The maximum of %d, %d is %d.\n", a, b, max);
     max = (max > c) ? max : c;
 
