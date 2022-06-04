@@ -34,7 +34,7 @@ Course Details and Lesson Plan can be found [here!](./COURSE_DETAILS-Short-term_
 | 21-May-2022 <br />06:30 - 8:00 PM <br />Online | S03: Looping Statements | `Tutorial:` Sum of n numbers, Factorial, Patterns | `SOON` | [P03-Looping_Statements](./Session03-Looping_Statements/P03-Looping_Statements.pdf) | [Repl](https://replit.com/@KarthikDesingu/Session03-LoopingStatements) | [V03-Iterative_Statements](https://drive.google.com/file/d/1QzN5dY6jnv0TBj0UPcYLZlOFTg5IrwVR/view?usp=sharing) |
 | 25-May-2022 <br />06:30 - 8:00 PM <br />Online | S04: Arrays | `Live Code Demo:` Linear Search, Matrix Addition and Multiplication `Tutorial:` Insertion and Deletion in Arrays | `SOON` | [P04-Arrays](./Session04-Arrays/P04-Arrays.pdf) | `SOON`| [V04-Arrays](https://drive.google.com/file/d/1nBv-SR-xToJtxwcT_zHmaJvHdSUg-5AC/view?usp=sharing) |
 | 30-May-2022 <br />06:30 - 8:00 PM <br />Online | S05: Array Operations | `Live Code Demo:` Linear Search (Revisit), Selection Sort `Tutorial:` Insertion Sort | `SOON` | [P05-Array_Operations](./Session05-ArrayOperations/P05-Array_Operations.pdf) | `SOON`| [V05-Array_Operations](https://drive.google.com/file/d/1Rm1FMGVtflB7LLAoIL4y1uV4kYI4yw3P/view?usp=sharing) |
-| 04-June-2022 <br />06:30 - 8:00 PM <br />Online | S06: Strings | `Live Code Demo:` String Copy, Case Conversion `Tutorial:` String Reversal | `SOON` | `SOON` | `SOON`| `SOON` |
+| 04-June-2022 <br />06:30 - 8:00 PM <br />Online | S06: Strings | `Live Code Demo:` String Copy, Case Conversion `Tutorial:` String Reversal | `SOON` | [P06: Strings](./Session06-Strings/P06-Strings.pdf) | `SOON`| `SOON` |
 
 <!-- ## References
 
