@@ -35,6 +35,7 @@ Course Details and Lesson Plan can be found [here!](./COURSE_DETAILS-Short-term_
 | 25-May-2022 <br />06:30 - 8:00 PM <br />Online | S04: Arrays | `Live Code Demo:` Linear Search, Matrix Addition and Multiplication `Tutorial:` Insertion and Deletion in Arrays | `SOON` | [P04-Arrays](./Session04-Arrays/P04-Arrays.pdf) | `SOON`| [V04-Arrays](https://drive.google.com/file/d/1nBv-SR-xToJtxwcT_zHmaJvHdSUg-5AC/view?usp=sharing) |
 | 30-May-2022 <br />06:30 - 8:00 PM <br />Online | S05: Array Operations | `Live Code Demo:` Linear Search (Revisit), Selection Sort `Tutorial:` Insertion Sort | `SOON` | [P05-Array_Operations](./Session05-ArrayOperations/P05-Array_Operations.pdf) | `SOON`| [V05-Array_Operations](https://drive.google.com/file/d/1Rm1FMGVtflB7LLAoIL4y1uV4kYI4yw3P/view?usp=sharing) |
 | 04-June-2022 <br />06:30 - 8:00 PM <br />Online | S06: Strings | `Live Code Demo:` String Copy, Case Conversion `Tutorial:` String Reversal | `SOON` | [P06: Strings](./Session06-Strings/P06-Strings.pdf) | `SOON`| [V06-Strings](https://drive.google.com/file/d/1rAxmLGbtyHDM-j-o9j1sJpZ0s5XAeVoL/view?usp=sharing) |
+| 15-June-2022 <br />06:30 - 8:00 PM <br />Online | S07: Functions | `Live Code Demo:` Linear Search, Swapping `Tutorial:` Increment a Variable (by Reference) | `SOON` | `SOON` | `SOON`| `SOON` |
 
 <!-- ## References
 
