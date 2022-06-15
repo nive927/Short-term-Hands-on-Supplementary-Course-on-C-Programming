@@ -4,7 +4,7 @@ This repo contains the material covered in the `Short-term Hands-on Supplementar
 
 ## Team
 
-| Nivedhitha D | Karthik D | Dr. B. Prabavathy | Dr. T.T. Mirnalinee |
+| Nivedhitha D | Karthik D | Dr. B. Prabavathy | Dr. T. T. Mirnalinee |
 | :----------: | :-------: | :---------------: | :-----------------: |
 |![display-error](./assets/ND-profile-pic.PNG)|![display-error](./assets/KD-profile-pic.PNG)|![display-error](./assets/PB-profile-pic.PNG)|![display-error](./assets/TTM-profile-pic.PNG)|
 |<a href="https://www.linkedin.com/in/nivedhitha-d-0bb67b1b0/"><img src="https://img.shields.io/badge/-Nivedhitha%20D-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="https://github.com/nive927"><img src="https://img.shields.io/badge/-nive927-B10036?style=flat&logo=GitHub&logoColor=white"/></a>|<a href="https://www.linkedin.com/in/karthik-desingu/"><img src="https://img.shields.io/badge/-Karthik%20D-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="https://github.com/karthik-d"><img src="https://img.shields.io/badge/-karthik--d-B10036?style=flat&logo=GitHub&logoColor=white"/></a>|<a href="https://www.ssn.edu.in/staff-members/dr-b-prabavathy/"><img src="https://img.shields.io/badge/-Dr%20B%20Prabavathy-323EA8?style=flat&logo=#&logoColor=white"/></a>|<a href="https://www.ssn.edu.in/staff-members/dr-t-t-mirnalinee//"><img src="https://img.shields.io/badge/-Dr%20T%20T%20Mirnalinee-323EA8?style=flat&logo=#&logoColor=white"/></a>|
