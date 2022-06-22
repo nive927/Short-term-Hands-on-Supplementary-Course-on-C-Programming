@@ -1,4 +1,4 @@
-# Short term Hands on Supplementary Course on C Programming
+# Short-term Hands-on Supplementary Course on C Programming
 
 This repo contains the material covered in the `Short-term Hands-on Supplementary Course in C Programming` for building C programming skills amongst the B.E. Computer Science & Engineering undergraduates in the [Computer Science & Engineering Department](https://www.ssn.edu.in/college-of-engineering/computer-science-and-engineering-department-ssn-institutions/) of [Sri Sivasubramaniya Nadar College of Engineering](https://www.ssn.edu.in/) through a practicum-driven lesson plan during May-July 2022.
 
@@ -37,6 +37,7 @@ Course Details and Lesson Plan can be found [here!](./COURSE_DETAILS-Short-term_
 | 04-June-2022 <br />06:30 - 8:00 PM <br />Online | S06: Strings | `Live Code Demo:` String Copy, Case Conversion `Tutorial:` String Reversal | `SOON` | [P06-Strings](./Session06-Strings/P06-Strings.pdf) | `SOON`| [V06-Strings](https://drive.google.com/file/d/1rAxmLGbtyHDM-j-o9j1sJpZ0s5XAeVoL/view?usp=sharing) |
 | 15-June-2022 <br />06:30 - 8:00 PM <br />Online | S07: Functions | `Live Code Demo:` Linear Search, Swapping `Tutorial:` Increment a Variable (by Reference) | `SOON` | [P07-Functions](./Session07-Functions/P07-Functions.pdf) | [Replit](https://replit.com/@NivedhithaD/Session07Functions), [Github](./Session07-Functions/Programs) | [V07-Functions](https://drive.google.com/file/d/1tt5yiBDzm3pR0gBAavxrjvhObFiSVhYk/view?usp=sharing) |
 | 18-June-2022 <br />06:30 - 8:00 PM <br />Online | S08: Recursive Functions and Variables Scopes | `Live Code Demo:` Fibonacci, Factorial, Variable Scopes in C `Tutorial:` Recursion with Pointers, Tail Call Optimization | `SOON` | [P08-RecursiveFunctions-VariableScopes](./Session08-Recursive_Functions-Variable_Scopes/P08-RecursiveFunctions-VariableScopes.pdf) | [Replit](https://replit.com/@KarthikDesingu/Session08-RecursiveFunctions-VariableScopes), [Github](./Session08-Recursive_Functions-Variable_Scopes/Programs) | [V08-RecursiveFunctions-VariableScopes](https://drive.google.com/file/d/1I6OHe74AA7Ujb5nug16TNQLTId4HXXjq/view?usp=sharing) |
+| 22-June-2022 <br />06:30 - 8:00 PM <br />Online | S09: Pointers | `Live Code Demo:` `SOON` `Tutorial:` `SOON` | `SOON` | [P09-Pointers](./Session09-Pointers/P09-Pointers.pdf) | [Replit](https://replit.com/@NivedhithaD/Session09Pointers), `SOON` | `SOON` |
 
 <!-- ## References
 
