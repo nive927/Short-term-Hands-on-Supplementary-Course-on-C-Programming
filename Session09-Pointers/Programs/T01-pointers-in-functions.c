@@ -1,7 +1,7 @@
 #include<stdlib.h>
 #include<stdio.h>
 
-int create_array(int size){
+int* create_array(int size){
     int *arr = malloc(5*sizeof(int));
     
     int arr1[] = {1, 2, 3, 4, 5}; /// int *arr -> start addr of array
@@ -10,7 +10,7 @@ int create_array(int size){
         *(arr+i) = *(arr1+i);
     }
 
-    return *(arr);
+    return arr;
 }
 
 void main(){
