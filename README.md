@@ -41,6 +41,7 @@ Course Details and Lesson Plan can be found [here](./COURSE_DETAILS-Short-term_H
 | 22-June-2022 <br />06:30 - 8:00 PM <br />Online | S09: Pointers | `Live Code Demo:` Pointer Basics, Pointers and Arrays `Tutorial:` Allocating and Returning Heap Memory | `SOON` | [P09-Pointers](./Session09-Pointers/P09-Pointers.pdf) | [Replit](https://replit.com/@KarthikDesingu/Session09Pointers), [Github](./Session09-Pointers/Programs) | [V09-Pointers](https://drive.google.com/file/d/16iPUuNuuonXz677Td6ivrhDL96YK8zIM/view?usp=sharing) |
 | 29-June-2022 <br />06:30 - 8:00 PM <br />Online | S10: More on Pointers | `Live Code Demo:` Pointer Arithmetic, 2D Arrays with Pointers `Tutorial:` Function Pointers, 2D Dynamic Arrays | `SOON` | [P10-MoreOnPointers](./Session10-MoreOnPointers/P10-More_On_Pointers.pdf) | [Replit](https://replit.com/@KarthikDesingu/Session10-MoreOnPointers), [Github](./Session10-MoreOnPointers/Programs) | [V10-MoreOnPointers](https://drive.google.com/file/d/13OYrhWjSBlpV2aU--fCSap3APwPZ0d8r/view?usp=sharing) |
 | 27-July-2022 <br />06:30 - 8:00 PM <br />Online | S11: Structures | `Live Code Demo:` Structures I/O, with Arrays and Functions `Tutorial:` Structures to Represent and Manipulate Fractions | `SOON` | [P11-Structures](./Session11-Structures/P11-Structures.pdf) | `SOON` | `SOON` |
+| Asynchronous <br /> Online | S12: File Handling | `Live Code Demo:` Text File I/O, Binary File I/O, `Tutorial:` Positional Query for File Read | `SOON` | `SOON` | `SOON`, `SOON` | `SOON` |
 
 <!-- ## References
 
