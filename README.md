@@ -43,7 +43,7 @@ Course Details and Lesson Plan can be found [here](./COURSE_DETAILS-Short-term_H
 | 27-July-2022 <br />06:30 - 8:00 PM <br />Online | S11: Structures | `Live Code Demo:` Structures I/O, with Arrays and Functions `Tutorial:` Structures to Represent and Manipulate Fractions | `SOON` | [P11-Structures](./Session11-Structures/P11-Structures.pdf) | [Replit](https://replit.com/@KarthikDesingu/Session11-Structures), [Github](./Session11-Structures/Programs) | `SOON` |
 | Asynchronous <br /> Online | S12: Unions, More on Structures | `Live Code Demo:` `SOON` `Tutorial:` `SOON` | `SOON` | `SOON` | `SOON`, `SOON` | `SOON` |
 | Asynchronous <br /> Online | S13: File Handling | `Live Code Demo:` Text File I/O, Binary File I/O, `Tutorial:` Random Access File Read | `SOON` | [P13-File_Handling](./Session13-File_Handling/P13-File_Handling.pdf) | `SOON`, `SOON` | `SOON` |
-| Asynchronous <br /> Online | S14: Structures and Files | `Live Code Demo:` Dynamic Structure Intialization, Linked Lists `Tutorial:` Store Linked Lists in Files | `SOON` | `SOON` | `SOON`, `SOON` | `SOON` |
+| Asynchronous <br /> Online | S14: Structures and Files | `Live Code Demo:` Dynamic Structure Intialization, Linked Lists `Tutorial:` Store Linked Lists in Files | `SOON` | [P14-Files_and_Structures](./Session14-Files_and_Structures/P14-Files_And_Structures.pdf) | `SOON`, `SOON` | `SOON` |
 
 <!-- ## References
 
