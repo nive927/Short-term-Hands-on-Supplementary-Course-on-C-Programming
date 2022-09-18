@@ -24,6 +24,16 @@ This repo contains the material covered in the `Short-term Hands-on Supplementar
 - Write clean and well documented code
 - Prepare for advanced coursework that employs C programming at its base
 
+## Course Project
+
+[Link to the **project repository**, and participant submissions.](https://github.com/karthik-d/C-Programming-Course_Project-Starter)
+
+- A guided project that evaluates how the course participants implement a Command-Line Interface (CLI) program.
+
+- The starter code, problem specification, and automated unit-test cases for this project are made available to the participants in an invigilated laboratory environment.
+
+- Participants were given 60 minutes to understand the existing codebase, develop the logic, and meet as many project objectives as possible.
+
 ## Course Schedule
 
 Course Details and Lesson Plan can be found [here](./COURSE_DETAILS-Short-term_Hands-on_Supplementary_Course_on_C_Programming.pdf)!
