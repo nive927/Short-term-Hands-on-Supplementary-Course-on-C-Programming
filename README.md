@@ -43,6 +43,7 @@ Course Details and Lesson Plan can be found [here](./COURSE_DETAILS-Short-term_H
 | 27-July-2022 <br />06:30 - 8:00 PM <br />Online | S11: Structures | `Live Code Demo:` Structures I/O, with Arrays and Functions `Tutorial:` Structures to Represent and Manipulate Fractions | `SOON` | [P11-Structures](./Session11-Structures/P11-Structures.pdf) | [Replit](https://replit.com/@KarthikDesingu/Session11-Structures), [Github](./Session11-Structures/Programs) | `SOON` |
 | Asynchronous <br /> Online | S12: File Handling | `Live Code Demo:` Text File I/O, Binary File I/O, `Tutorial:` Random Access File Read | `SOON` | [P12-File_Handling](./Session12-File_Handling/P12-File_Handling.pdf) | [Replit](https://replit.com/@KarthikDesingu/Session12-FileHandling), [Github](./Session12-File_Handling/Programs) | `SOON` |
 | Asynchronous <br /> Online | S13: Structures and Files | `Live Code Demo:` Dynamic Structure Intialization, Linked Lists `Tutorial:` Store Linked Lists in Files | `SOON` | [P13-Files_and_Structures](./Session13-Files_and_Structures/P13-Files_And_Structures.pdf) | [Replit](https://replit.com/@KarthikDesingu/Session13-FilesandStructures), [Github](./Session13-Files_and_Structures/Programs) | `SOON` |
+| 14-September-2022 <br />01:30 - 3:30 PM <br />Java Technology Lab | S14: Project Development and Evaluation | `Lab Test`: Develop a Todo Application from given Boilerplate Code | `NA` | `NA` | [Github Repository with Starter Code](https://github.com/karthik-d/C-Programming-Course_Project-Starter) | `NA` | 
 
 <!-- ## References
 
