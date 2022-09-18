@@ -10,20 +10,6 @@ This repo contains the material covered in the `Short-term Hands-on Supplementar
 |<a href="https://www.linkedin.com/in/nivedhitha-d-0bb67b1b0/"><img src="https://img.shields.io/badge/-Nivedhitha%20D-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="https://github.com/nive927"><img src="https://img.shields.io/badge/-nive927-B10036?style=flat&logo=GitHub&logoColor=white"/></a>|<a href="https://www.linkedin.com/in/karthik-desingu/"><img src="https://img.shields.io/badge/-Karthik%20D-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="https://github.com/karthik-d"><img src="https://img.shields.io/badge/-karthik--d-B10036?style=flat&logo=GitHub&logoColor=white"/></a>|<a href="https://www.ssn.edu.in/staff-members/dr-b-prabavathy/"><img src="https://img.shields.io/badge/-Dr%20B%20Prabavathy-323EA8?style=flat&logo=#&logoColor=white"/></a>|<a href="https://www.ssn.edu.in/staff-members/dr-t-t-mirnalinee//"><img src="https://img.shields.io/badge/-Dr%20T%20T%20Mirnalinee-323EA8?style=flat&logo=#&logoColor=white"/></a>|
 |B.E. CSE 2018-2022|B.E. CSE 2019-2023|Associate Professor|Professor & Head of the Department|
 
-## Objectives
-
-- To lay solid foundations in C programming using a project-oriented practicum
-- To ensure that students are able to implement theoretical concepts programmatically
-- To promote collaborative learning by participating in coding parties and Ask Me Anything (AMA) sessions
-
-## Outcomes
-- Implement, compile, debug, and execute procedural programs in C
-- Implement C programs with appropriate data representation and programming constructs
-- Organize programs into functions and modules
-- Develop programming projects in C modularly and refine incrementally
-- Write clean and well documented code
-- Prepare for advanced coursework that employs C programming at its base
-
 ## Course Project
 
 [Link to the **project repository**, and participant submissions.](https://github.com/karthik-d/C-Programming-Course_Project-Starter)
@@ -54,6 +40,20 @@ Course Details and Lesson Plan can be found [here](./COURSE_DETAILS-Short-term_H
 | Asynchronous <br /> Online | S12: File Handling | `Live Code Demo:` Text File I/O, Binary File I/O, `Tutorial:` Random Access File Read | `SOON` | [P12-File_Handling](./Session12-File_Handling/P12-File_Handling.pdf) | [Replit](https://replit.com/@KarthikDesingu/Session12-FileHandling), [Github](./Session12-File_Handling/Programs) | `SOON` |
 | Asynchronous <br /> Online | S13: Structures and Files | `Live Code Demo:` Dynamic Structure Intialization, Linked Lists `Tutorial:` Store Linked Lists in Files | `SOON` | [P13-Files_and_Structures](./Session13-Files_and_Structures/P13-Files_And_Structures.pdf) | [Replit](https://replit.com/@KarthikDesingu/Session13-FilesandStructures), [Github](./Session13-Files_and_Structures/Programs) | `SOON` |
 | 14-September-2022 <br />01:30 - 3:30 PM <br />Java Technology Lab | S14: Project Development and Evaluation | `Lab Test`: Develop a Todo Application from given Boilerplate Code | `NA` | `NA` | [Github Repository with Starter Code](https://github.com/karthik-d/C-Programming-Course_Project-Starter) | `NA` | 
+
+## Objectives
+
+- To lay solid foundations in C programming using a project-oriented practicum
+- To ensure that students are able to implement theoretical concepts programmatically
+- To promote collaborative learning by participating in coding parties and Ask Me Anything (AMA) sessions
+
+## Outcomes
+- Implement, compile, debug, and execute procedural programs in C
+- Implement C programs with appropriate data representation and programming constructs
+- Organize programs into functions and modules
+- Develop programming projects in C modularly and refine incrementally
+- Write clean and well documented code
+- Prepare for advanced coursework that employs C programming at its base
 
 <!-- ## References
 
