@@ -2,6 +2,8 @@
 
 This repo contains the material covered in the `Short-term Hands-on Supplementary Course in C Programming` for building C programming skills amongst the B.E. Computer Science & Engineering undergraduates in the [Computer Science & Engineering Department](https://www.ssn.edu.in/college-of-engineering/computer-science-and-engineering-department-ssn-institutions/) at [Sri Sivasubramaniya Nadar College of Engineering](https://www.ssn.edu.in/) through a practicum-driven lesson plan during May-July 2022.
 
+This certificate course was developed to support and enrich the material covered in the mandatory undergraduate courses `UCS1201 Programming in C` and `UCS1211 Programming in C Lab`. The team developed a curated lesson plan with offline & online classes, weekly assignments, code demos, and a capstone-project-cum-final-assessment for issuing merit certificates.
+
 ## Team
 
 | Nivedhitha D | Karthik D | Dr. B. Prabavathy | Dr. T. T. Mirnalinee |
